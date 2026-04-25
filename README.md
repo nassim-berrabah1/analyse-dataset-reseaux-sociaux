@@ -1,6 +1,9 @@
 # Analyse d'un dataset de 5 000 utilisateurs — Réseaux sociaux
 
-![Python](https://img.shields.io/badge/Python-3.x-blue) ![Pandas](https://img.shields.io/badge/Pandas-✓-green) ![Matplotlib](https://img.shields.io/badge/Matplotlib-✓-orange) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+- Python
+- Pandas
+- Matplotlib
+- Jupyter notebook
 
 ## Description
 Nettoyage, exploration statistique et visualisation d'un dataset de 5 000 utilisateurs d'un réseau social, décrit par 39 variables (qualitatives, quantitatives et dérivées). Le projet met en évidence des comportements utilisateurs souvent contre-intuitifs.
