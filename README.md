@@ -54,12 +54,11 @@ Le dataset brut présentait plusieurs anomalies traitées avec Pandas :
 <img width="975" height="572" alt="image" src="https://github.com/user-attachments/assets/ae3c8aba-c035-434d-9573-b3c14ba3925e" />
 
 ## Contenu
-
+'''
 📁 analyse-dataset-reseaux-sociaux/
-├── notebook.ipynb         # Analyse complète (nettoyage + visualisations)
-├── rapport.pdf            # Rapport de SAé
+├── notebook.ipynb # Analyse complète (nettoyage + visualisations)
+├── rapport.pdf # Rapport de SAé
 └── README.md
-
-
+'''
 ## Conclusion
 Ce projet montre que les comportements utilisateurs sont souvent à l'opposé des idées reçues : les plus engagés ne sont pas les plus fidèles, et ce sont les seniors qui consomment le plus de vidéos.
