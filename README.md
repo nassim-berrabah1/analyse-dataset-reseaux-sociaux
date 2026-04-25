@@ -1,7 +1,7 @@
 # 📱 Analyse d'un dataset de 5 000 utilisateurs — Réseaux sociaux
 > Nettoyage, exploration statistique et visualisation d'un dataset de 5 000 utilisateurs d'un réseau social, décrit par 39 variables (qualitatives, quantitatives et dérivées). Le projet met en évidence des comportements utilisateurs souvent contre-intuitifs.
 
-*Outils* : Python · Pandas · Matplotlib · Jupyter Notebook
+**Outils** : Python · Pandas · Matplotlib · Jupyter Notebook
 
 ---
 
